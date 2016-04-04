@@ -1,4 +1,7 @@
 body {
-    background-image: chocolate;
+    background-color: chocolate;
+}
+
+h1 {
     font-size: 2000 px;
 }
